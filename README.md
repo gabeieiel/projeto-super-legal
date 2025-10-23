@@ -166,14 +166,6 @@ Licensed under the MIT License — veja o arquivo LICENSE para detalhes.
 
 ## Contato / Créditos
 
-Autor: quem mantém este repositório (adapte para seu nome/handle)  
-Contato: alexisetechas (GitHub: @alexisetechas) ou abra uma issue no repositório.
+Autores:
 
----
-
-Se quiser, eu posso:
-- Gerar um README em inglês também.
-- Criar um exemplo de implementação completo do MarkovChain (arquivo Python) e adicioná-lo ao repositório.
-- Gerar notebooks de demonstração (Jupyter) com exemplos de treino e visualização.
-
-Diga qual opção prefere que eu crie a seguir. 
+Grupo 2 da capacitação da Fea Dev
